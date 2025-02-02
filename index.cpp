@@ -3,5 +3,5 @@ using namespace std;
 int main()
 {
     cout<<"AA";
-    Cout<<"BB";
+    cout<<"BB";
 }
